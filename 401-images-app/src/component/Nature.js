@@ -21,7 +21,11 @@ function Nature1(props) {
                     <Card.Text>
                         Likes : {nomOfLikes}
                     </Card.Text>
-                    <Button variant='success' onClick={increment}>Like</Button>
+                    {/* <Button variant='success' onClick={increment}>Like</Button> */}
+{/* <button class="button-74" role="button" onClick={increment}>Like</button> */}
+<button class="button-85" role="button" onClick={increment}>Like</button>
+
+
                 </Card.Body>
             </Card>
         </>

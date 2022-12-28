@@ -28,6 +28,7 @@ function Parent() {
 
             <h1 className='total'>
                 Total Likes : {allLikes}
+
                 </h1>
         </nav>
         </>

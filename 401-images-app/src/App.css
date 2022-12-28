@@ -1,8 +1,8 @@
 .App {
   text-align: center;
-  background: url('https://thumbs.dreamstime.com/b/landscape-background-banner-panorama-breathtaking-view-black-silhouette-mountains-hills-forest-evening-230676598.jpg');
-  background-repeat:repeat-x;
-  
+  /* background: url('https://thumbs.dreamstime.com/b/landscape-background-banner-panorama-breathtaking-view-black-silhouette-mountains-hills-forest-evening-230676598.jpg');
+  background-repeat:repeat-x; */
+  background-color: #ccceba;
 }
 
 .App-logo {
