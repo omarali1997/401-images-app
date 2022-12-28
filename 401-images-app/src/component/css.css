@@ -1,0 +1,21 @@
+.imag{
+    display: flex;
+    gap: 1% !important;
+    justify-content: center;
+    width: 100%;
+    height: 100% !important;
+    border: 2px solid rgb(0, 0, 0);
+}
+.total{
+    color: rgb(20, 103, 19);
+    background-color: rgba(233, 227, 218, 0.792);
+}
+.i{
+    width: 100%;
+    height: 100% !important;
+}
+
+.b{
+    color: rgb(239, 255, 239);
+    background:url('https://i.pinimg.com/736x/79/b0/cc/79b0cc580a78b2e1ffc12f16239a271d.jpg') no-repeat center;
+}
